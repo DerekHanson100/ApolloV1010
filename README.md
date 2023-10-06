@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ApolloV
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... Java/Apex/JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Derek
+- 👀 I’m interested in learning new things and sharing the journey with others!
+- 🌱 I’m currently learning Salesforce Development 
+- 💞️ I’m looking to collaborate on any projects or homework to help practice what I'm learning.
 - 📫 How to reach me ...
 
 <!---
